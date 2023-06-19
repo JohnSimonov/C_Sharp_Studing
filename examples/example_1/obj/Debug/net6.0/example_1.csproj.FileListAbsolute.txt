@@ -1,0 +1,15 @@
+/home/admin-ubuntu/C#/examples/example_1/bin/Debug/net6.0/example_1
+/home/admin-ubuntu/C#/examples/example_1/bin/Debug/net6.0/example_1.deps.json
+/home/admin-ubuntu/C#/examples/example_1/bin/Debug/net6.0/example_1.runtimeconfig.json
+/home/admin-ubuntu/C#/examples/example_1/bin/Debug/net6.0/example_1.dll
+/home/admin-ubuntu/C#/examples/example_1/bin/Debug/net6.0/ref/example_1.dll
+/home/admin-ubuntu/C#/examples/example_1/bin/Debug/net6.0/example_1.pdb
+/home/admin-ubuntu/C#/examples/example_1/obj/Debug/net6.0/example_1.csproj.AssemblyReference.cache
+/home/admin-ubuntu/C#/examples/example_1/obj/Debug/net6.0/example_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin-ubuntu/C#/examples/example_1/obj/Debug/net6.0/example_1.AssemblyInfoInputs.cache
+/home/admin-ubuntu/C#/examples/example_1/obj/Debug/net6.0/example_1.AssemblyInfo.cs
+/home/admin-ubuntu/C#/examples/example_1/obj/Debug/net6.0/example_1.csproj.CoreCompileInputs.cache
+/home/admin-ubuntu/C#/examples/example_1/obj/Debug/net6.0/example_1.dll
+/home/admin-ubuntu/C#/examples/example_1/obj/Debug/net6.0/ref/example_1.dll
+/home/admin-ubuntu/C#/examples/example_1/obj/Debug/net6.0/example_1.pdb
+/home/admin-ubuntu/C#/examples/example_1/obj/Debug/net6.0/example_1.genruntimeconfig.cache
